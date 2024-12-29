@@ -7,7 +7,23 @@ Questo progetto raccoglie e analizza i dati sui prezzi dei laptop. L'obiettivo √
 - Python
 - Pandas
 - Jupyter Notebooks
+- Power BI
 
-## Contenuto del progetto: 
-- Sono presenti  3 file .csv, 1 file phyton e un file power bi
-- Aprili nell'ordine Laptops.ipynb, laptops.csv, laptops.pbix (gli altri 2 file .csv derivano dal primo .csv, quindi irrelevanti) 
+## Funzionalit√†
+- Analisi dei prezzi dei laptop in base a specifiche tecniche come il processore, la memoria RAM, la dimensione dello schermo e altri parametri.
+- Identificazione delle tendenze nei prezzi in relazione alle caratteristiche dei dispositivi.
+- Creazione di visualizzazioni interattive dei dati tramite Power BI.
+- Esportazione e reportistica dei risultati in formato CSV.
+
+## Contenuto del progetto
+- **3 file CSV**: Dati grezzi e trasformati utilizzati nell'analisi.
+- **1 file Python**: Contiene il codice per l'analisi dei dati e la generazione delle visualizzazioni.
+- **1 file Power BI**: Report interattivo con grafici e dashboard.
+  
+Per utilizzare i file, segui quest'ordine:
+1. **Laptops.ipynb**: Notebook Jupyter per eseguire l'analisi e visualizzare i risultati.
+2. **laptops.csv**: Il file principale contenente i dati sui laptop.
+3. **laptops.pbix**: Il file Power BI con il report interattivo.
+  
+Gli altri due file CSV derivano dal primo e non sono necessari per l'analisi principale.
+
